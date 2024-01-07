@@ -19,11 +19,11 @@ Pada _project_ ini, tim kami membuat sebuah _website_ untuk para lansia yang ing
 - Maps
 - Order
 
-<b>
+<a><b>
 Sebelum menjalankan program sebaiknya lakukan langkah berikut terlebih dahulu :
 1. konfigurasi file system menjadi public
 2. Membuat akun mapbox dan menaruh API dalam file .env dengan kata kunci "MAPBOX_KEY"
-</b>
+</b></a>
 
 Berikut kami persembahkan, <b>Elder Caregiver Website Application</b>
 
