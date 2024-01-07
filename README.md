@@ -19,6 +19,12 @@ Pada _project_ ini, tim kami membuat sebuah _website_ untuk para lansia yang ing
 - Maps
 - Order
 
+<b>
+Sebelum menjalankan program sebaiknya lakukan langkah berikut terlebih dahulu :
+1. konfigurasi file system menjadi public
+2. Membuat akun mapbox dan menaruh API dalam file .env dengan kata kunci "MAPBOX_KEY"
+</b>
+
 Berikut kami persembahkan, <b>Elder Caregiver Website Application</b>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
