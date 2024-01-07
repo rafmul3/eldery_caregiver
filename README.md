@@ -12,7 +12,12 @@ Hai, semua! Perkenalkan kami dari Kelompok D kelas SI-43-05. Kelompok D terdiri 
 | M. Raihan Hadwirianto | <a href="https://github.com/mraihanh12"><b>mraihanh12</b></a> |
 | Nizur Adha	| <a href="https://github.com/NizurAdha"><b>NizurAdha</b></a> |
 
-Pada _project_ ini, tim kami membuat sebuah _website_ untuk para lansia yang ingin memesan jasa pengasuh melalui sebuah situs. Tujuan dibuatnya aplikasi ini diharapkan dapat membantu para orang tua atau lansia yang ditinggal sendirian atau kurang mendapat perawatan dengan baik di rumah menggunakan jasa _sitter services_ atau layanan pengasuh dari pekerja aplikasi Elderly Caregiver ini. Cara kerjanya pengguna memesan layanan pengasuhan untuk orang tua dengan melakukan pendaftaran sebagai user, kemudian memilih jenis perawatan atau pengasuhan lansia sesuai dengan apa yang disediakan di aplikasi Elderly Caregiver. 
+Pada _project_ ini, tim kami membuat sebuah _website_ untuk para lansia yang ingin memesan jasa pengasuh melalui sebuah situs. Tujuan dibuatnya aplikasi ini diharapkan dapat membantu para orang tua atau lansia yang ditinggal sendirian atau kurang mendapat perawatan dengan baik di rumah menggunakan jasa _sitter services_ atau layanan pengasuh dari pekerja aplikasi Elderly Caregiver ini. Cara kerjanya pengguna memesan layanan pengasuhan untuk orang tua dengan melakukan pendaftaran sebagai user, kemudian memilih jenis perawatan atau pengasuhan lansia sesuai dengan apa yang disediakan di aplikasi Elderly Caregiver.  Dalam project ini kami membuat beberapa fitur utama yaitu: 
+- Login/Register
+- Dashboard
+- Chatting
+- Maps
+- Order
 
 Berikut kami persembahkan, <b>Elder Caregiver Website Application</b>
 
